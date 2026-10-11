@@ -1,0 +1,12 @@
+# Never include mod jars, binaries, zips or world data
+*.jar
+*.zip
+*.rar
+*.7z
+*.bak
+*.disabled
+*.dat
+*.mca
+*.log
+.DS_Store
+Thumbs.db

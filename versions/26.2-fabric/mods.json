@@ -1,0 +1,859 @@
+{
+  "version": "26.2 (Future Snapshot / Latest)",
+  "loader": "Fabric Loader 0.19.5",
+  "java": "Java 25",
+  "total_mods": 58,
+  "mods": [
+    {
+      "filename": "AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
+      "size_mb": 80.89,
+      "id": "ambientsounds",
+      "name": "AmbientSounds",
+      "version": "6.3.6",
+      "loader": "Fabric",
+      "description": "Expands minecraft's ambient sounds.",
+      "homepage": "https://modrinth.com/mod/ambientsounds",
+      "authors": [
+        "CreativeMD",
+        "AriaFreeze"
+      ],
+      "category": "🔊 Audio & Ambientación"
+    },
+    {
+      "filename": "Amplified_Nether_26.2_v1.2.16.jar",
+      "size_mb": 0.1,
+      "id": "amplified_nether",
+      "name": "Amplified Nether",
+      "version": "1.2.16",
+      "loader": "Fabric",
+      "description": "The nether explorer's simple dream: doubled height and amplified terrain. What more is needed?",
+      "homepage": "https://www.stardustlabs.net/",
+      "authors": [
+        "Starmute",
+        "catter1"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "appleskin-fabric-mc26.2-3.0.10.jar",
+      "size_mb": 0.17,
+      "id": "appleskin",
+      "name": "AppleSkin",
+      "version": "3.0.10+mc26.2",
+      "loader": "Fabric",
+      "description": "Adds various food-related HUD improvements",
+      "homepage": "https://modrinth.com/mod/appleskin",
+      "authors": [
+        "squeek502"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "architectury-fabric-21.0.7.jar",
+      "size_mb": 0.56,
+      "id": "architectury",
+      "name": "Architectury",
+      "version": "21.0.7",
+      "loader": "Fabric",
+      "description": "An intermediary api aimed to ease developing multiplatform mods.",
+      "homepage": "https://architectury.github.io/architectury-documentations/",
+      "authors": [
+        "shedaniel"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "badpackets-fabric-0.12.2.jar",
+      "size_mb": 0.05,
+      "id": "badpackets",
+      "name": "Bad Packets",
+      "version": "0.12.2",
+      "loader": "Fabric",
+      "description": "Allow packet messaging between multiple modding platform.",
+      "homepage": "",
+      "authors": [
+        "deirn"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "balm-fabric-26.2-26.2.0.7.jar",
+      "size_mb": 1.14,
+      "id": "balm",
+      "name": "Balm",
+      "version": "26.2.0.7",
+      "loader": "Fabric",
+      "description": "Abstraction Layer (but not really) for Blay's multiplatform mods",
+      "homepage": "https://balm.twelveiterations.com/",
+      "authors": [
+        "BlayTheNinth"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "bclib-26.201.2.jar",
+      "size_mb": 1.23,
+      "id": "bclib",
+      "name": "BCLib",
+      "version": "26.201.2",
+      "loader": "Fabric",
+      "description": "A library for BetterX team mods",
+      "homepage": "https://modrinth.com/mod/bclib",
+      "authors": [
+        "Quiqueck",
+        "paulevs",
+        "Bulldog83"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "BetterAnimationsCollection-v26.2.0-mc26.2.x-Fabric.jar",
+      "size_mb": 0.16,
+      "id": "betteranimationscollection",
+      "name": "Better Animations Collection",
+      "version": "26.2.0",
+      "loader": "Fabric",
+      "description": "Changing the in-game models to allow for better animations and subtle effects.",
+      "homepage": "https://modrinth.com/mod/better-animations-collection",
+      "authors": [
+        "KodaichiZero",
+        "Fuzs"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "betterbiomeblend-fabric-26.2-1.4.0.jar",
+      "size_mb": 0.07,
+      "id": "betterbiomeblend",
+      "name": "Better Biome Blend",
+      "version": "1.4.0",
+      "loader": "Fabric",
+      "description": "This mod increases the biome color blending radius and replaces the original blending algorithm with a more efficient one.",
+      "homepage": "",
+      "authors": [
+        "FionaTheMortal"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "better-nether-26.201.2.jar",
+      "size_mb": 26.58,
+      "id": "betternether",
+      "name": "Better Nether",
+      "version": "26.201.2",
+      "loader": "Fabric",
+      "description": "Mod that improves Nether",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/betternether",
+      "authors": [
+        "quiqueck",
+        "paulevs (original author)"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "blur-fabric-6.3.1+26.2.jar",
+      "size_mb": 0.2,
+      "id": "blur",
+      "name": "Blur+",
+      "version": "6.3.1",
+      "loader": "Fabric",
+      "description": "Various enhancements for the blur effect behind Minecraft GUIs",
+      "homepage": "https://modrinth.com/mod/blur-fabric",
+      "authors": [
+        "Motschen",
+        "amiralimollaei",
+        "tterrag1098",
+        "Pyrofab"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "Bookshelf-fabric-MC26.2-26.2.0.4.jar",
+      "size_mb": 0.29,
+      "id": "bookshelf",
+      "name": "Bookshelf",
+      "version": "26.2.0.4",
+      "loader": "Fabric",
+      "description": "Bookshelf is a library mod that provides code, frameworks, and utilities for other mods. Many mods make use of Bookshelf and are powered by its code.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+      "authors": [
+        "Darkhax"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "cardinal-components-api-8.0.1.jar",
+      "size_mb": 0.23,
+      "id": "cardinal-components",
+      "name": "Cardinal Components API",
+      "version": "8.0.1",
+      "loader": "Fabric",
+      "description": "Attaching more data to various game objects",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/cardinal-components",
+      "authors": [
+        "UpcraftLP",
+        "Pyrofab"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "cicada-lib-0.15.2+26.2.jar",
+      "size_mb": 0.34,
+      "id": "cicada",
+      "name": "CICADA",
+      "version": "0.15.2+26.2",
+      "loader": "Fabric",
+      "description": "Confusing, Interesting and Considerably Agnostic Development Aid",
+      "homepage": "https://enjarai.dev/",
+      "authors": [
+        "enjarai"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "cloth-config-26.2.155.jar",
+      "size_mb": 1.08,
+      "id": "cloth-config",
+      "name": "Cloth Config v26.2",
+      "version": "26.2.155",
+      "loader": "Fabric",
+      "description": "An API for config screens.",
+      "homepage": "https://minecraft.curseforge.com/projects/cloth-config",
+      "authors": [
+        "shedaniel"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "comforts-fabric-16.0.0+26.2.jar",
+      "size_mb": 0.92,
+      "id": "comforts",
+      "name": "Comforts",
+      "version": "16.0.0+26.2",
+      "loader": "Fabric",
+      "description": "Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns.\\nComes in 16 different colors!",
+      "homepage": "https://github.com/illusivesoulworks/comforts",
+      "authors": [
+        "Illusive Soulworks"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "continuity-3.0.1+26.2.jar",
+      "size_mb": 0.99,
+      "id": "continuity",
+      "name": "Continuity",
+      "version": "3.0.1+26.2",
+      "loader": "Fabric",
+      "description": "Continuity is a Minecraft mod that allows resource packs that use the OptiFine connected textures format or OptiFine emissive textures format (only for blocks and item models) to work without OptiFine.",
+      "homepage": "https://modrinth.com/mod/continuity",
+      "authors": [
+        "PepperCode1"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+      "size_mb": 1.33,
+      "id": "creativecore",
+      "name": "CreativeCore",
+      "version": "2.14.16",
+      "loader": "Fabric",
+      "description": "A simple but powerful coremod.",
+      "homepage": "https://modrinth.com/mod/creativecore",
+      "authors": [
+        "CreativeMD",
+        "AriaFreeze"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "cristellib-fabric-26.2-3.1.11.jar",
+      "size_mb": 0.56,
+      "id": "cristellib",
+      "name": "Cristel Lib",
+      "version": "3.1.11",
+      "loader": "Fabric",
+      "description": "A Library mod for easy structure config and runtime datapacks.",
+      "homepage": "https://modrinth.com/mod/cristel-lib",
+      "authors": [
+        "Cristelknight"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "DiagonalFences-v26.2.0-mc26.2.x-Fabric.jar",
+      "size_mb": 0.12,
+      "id": "diagonalfences",
+      "name": "Diagonal Fences",
+      "version": "26.2.0",
+      "loader": "Fabric",
+      "description": "Fences connecting diagonally? Wait. That's illegal.",
+      "homepage": "https://modrinth.com/mod/diagonal-fences",
+      "authors": [
+        "Fuzs",
+        "XFactHD"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "do_a_barrel_roll-fabric-3.8.4+26.2.jar",
+      "size_mb": 0.54,
+      "id": "do_a_barrel_roll",
+      "name": "Do a Barrel Roll",
+      "version": "3.8.4",
+      "loader": "Fabric",
+      "description": "Microsoft flight simulator for Minecraft elytras.",
+      "homepage": "https://enjarai.dev/",
+      "authors": [
+        "enjarai"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+      "size_mb": 0.41,
+      "id": "dynamiclights",
+      "name": "Dynamic Lights",
+      "version": "1.9.3+mod",
+      "loader": "Fabric",
+      "description": "Supported entities and items will emit light by using the light block added in 21w13a. §lSupported Items:§r Torches, Lanterns, Campfires, Glowstone, Glowstone Dust, Magma Blocks, Blaze Rods, Blaze Powder, Spectral Arrows, Lava Buckets, Sea Lanterns, Prismarine Crystals, Sea Pickles, Froglights, Glow Ink Sacs, Glow Berries, Glow Item Frames, Glow Lichen, Sculk Catalysts, Vaults, Jack o'Lanterns, Shroomlights, End Rods, End Crystals, Fire Charge, Amethyst Shards, Crying Obsidian, Nether Stars, Totems, Ender Chests, Enchanting Tables and Beacons Additionally, all enchanted items will emit light level 6 while Fire Aspect, Riptide or Channeling enchanted items emit light level 9. §lSupported Entities:§r Allays, Glow Squids, Glow Item Frames, Blazes, TNT, End Crystals, Fireballs, Spectral Arrows, Shulker Bullets, Magma Cubes, Firework Rockets and Flying Wither Skulls This mod is completely server-side! Execute the command §o/function §odynamiclights:settings§r for a world-specific settings menu and/or install MidnightLib for global settings across all worlds.",
+      "homepage": "https://tschipcraft.ddns.net/dynamiclights.html",
+      "authors": [
+        "Tschipcraft"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "Ecologics-NeoFab-26.2-2.6.0.jar",
+      "size_mb": 2.82,
+      "id": "ecologics",
+      "name": "Ecologics",
+      "version": "2.6.0",
+      "loader": "Fabric",
+      "description": "Simple vanilla biome updates, with fun mobs, blocks, and more!",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/ecologics",
+      "authors": [
+        "SameButDifferent",
+        "Zero_DSRS_VX",
+        "Drigonis",
+        "Crispytwig",
+        "Irishjevil",
+        "Foquito Azul",
+        "Kitteh6660"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "extrasounds-1.5.7+26.2-fabric.jar",
+      "size_mb": 0.36,
+      "id": "extrasounds",
+      "name": "ExtraSounds Next",
+      "version": "1.5.6",
+      "loader": "Fabric",
+      "description": "Improve your clicks, scrolls and more with Extra Sounds.",
+      "homepage": "https://github.com/Arborsm/ExtraSoundsNext",
+      "authors": [
+        "Arborsm",
+        "stashymane"
+      ],
+      "category": "🔊 Audio & Ambientación"
+    },
+    {
+      "filename": "fabric-api-0.159.0+26.2.jar",
+      "size_mb": 2.42,
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "version": "0.159.0+26.2",
+      "loader": "Fabric",
+      "description": "Core API module providing key hooks and intercompatibility features.",
+      "homepage": "https://fabricmc.net",
+      "authors": [
+        "FabricMC"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "size_mb": 7.7,
+      "id": "fabric-language-kotlin",
+      "name": "Fabric Language Kotlin",
+      "version": "1.13.13+kotlin.2.4.10",
+      "loader": "Fabric",
+      "description": "Fabric language module for Kotlin.",
+      "homepage": "https://minecraft.curseforge.com/projects/fabric-language-kotlin",
+      "authors": [
+        "FabricMC"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "fallingleaves-2.0.7+26.1.jar",
+      "size_mb": 0.17,
+      "id": "fallingleaves",
+      "name": "Falling Leaves",
+      "version": "2.0.7",
+      "loader": "Fabric",
+      "description": "\"How the gentle wind beckons through the leaves as autumn colors fall, dancing in a swirl of golden memories: the loveliest lies of all.\"",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric",
+      "authors": [
+        "Fourmisain",
+        "BrekiTomasson",
+        "RandomMcSomethin"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "ferritecore-9.0.0-fabric.jar",
+      "size_mb": 0.07,
+      "id": "ferritecore",
+      "name": "FerriteCore",
+      "version": "9.0.0",
+      "loader": "Fabric",
+      "description": "Reduces memory usage",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric",
+      "authors": [
+        "malte0811"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "size_mb": 0.58,
+      "id": "forgeconfigapiport",
+      "name": "Forge Config API Port",
+      "version": "26.2.1",
+      "loader": "Fabric",
+      "description": "Provides NeoForge's & Forge's config systems to other modding ecosystems. Designed for a multi-loader architecture.",
+      "homepage": "https://modrinth.com/mod/forge-config-api-port",
+      "authors": [
+        "Fuzs"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "friendsandfoes-fabric-4.0.27+mc26.2.jar",
+      "size_mb": 4.1,
+      "id": "friendsandfoes",
+      "name": "Friends&Foes",
+      "version": "4.0.27",
+      "loader": "Fabric",
+      "description": "Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and introducing new vanilla-like features.",
+      "homepage": "https://github.com/Faboslav/friends-and-foes",
+      "authors": [
+        "Faboslav"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "iris-fabric-1.11.2+mc26.2.jar",
+      "size_mb": 2.69,
+      "id": "iris",
+      "name": "Iris",
+      "version": "1.11.2+mc26.2",
+      "loader": "Fabric",
+      "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
+      "homepage": "https://github.com/IrisShaders/Iris",
+      "authors": [
+        "coderbot",
+        "IMS212",
+        "Justsnoopy30",
+        "FoundationGames"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "jei-26.2-fabric-30.30.0.204.jar",
+      "size_mb": 1.79,
+      "id": "jei",
+      "name": "Just Enough Items",
+      "version": "30.30.0.204",
+      "loader": "Fabric",
+      "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/jei",
+      "authors": [
+        "mezz"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "lithium-fabric-0.25.3+mc26.2.jar",
+      "size_mb": 0.87,
+      "id": "lithium",
+      "name": "Lithium",
+      "version": "0.25.3+mc26.2",
+      "loader": "Fabric",
+      "description": "Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game.",
+      "homepage": "https://jellysquid.me/projects/",
+      "authors": [
+        "JellySquid",
+        "2No2Name"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "mca-fabric-8.1.11+26.2.jar",
+      "size_mb": 10.93,
+      "id": "mca",
+      "name": "Minecraft Comes Alive",
+      "version": "8.1.11+26.2",
+      "loader": "Fabric",
+      "description": "No more squidward-villagers! Interact with male and female human villagers and online library.",
+      "homepage": "https://conczin.net/",
+      "authors": [
+        "Luke100000, S0llace, CDAGaming, ffrannny, jahx_senpoopie, WildBamaBoy, SheWolfDeadly"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "modmenu-20.0.1.jar",
+      "size_mb": 0.59,
+      "id": "modmenu",
+      "name": "Mod Menu",
+      "version": "20.0.1",
+      "loader": "Fabric",
+      "description": "Adds a mod menu to view the list of mods you have installed.",
+      "homepage": "https://modrinth.com/mod/modmenu",
+      "authors": [
+        "Prospector",
+        "haykam821",
+        "gniftygnome",
+        "TerraformersMC"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "modmenu-badges-lib-2026.3.1.jar",
+      "size_mb": 0.02,
+      "id": "modmenu-badges-lib",
+      "name": "ModMenu Badges Lib",
+      "version": "2026.3.1",
+      "loader": "Fabric",
+      "description": "",
+      "homepage": "https://syorito-hatsuki.dev/",
+      "authors": [
+        "Syorito Hatsuki"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "PresenceFootsteps-1.13.3+26.2.jar",
+      "size_mb": 5.48,
+      "id": "presencefootsteps",
+      "name": "Presence Footsteps",
+      "version": "1.13.3+26.2",
+      "loader": "Fabric",
+      "description": "An overly complicated sound mod.",
+      "homepage": "https://github.com/Sollace/Presence-Footsteps",
+      "authors": [
+        "Hurricaaane (Ha3)",
+        "Sollace"
+      ],
+      "category": "🔊 Audio & Ambientación"
+    },
+    {
+      "filename": "PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
+      "size_mb": 1.09,
+      "id": "puzzleslib",
+      "name": "Puzzles Lib",
+      "version": "26.2.3",
+      "loader": "Fabric",
+      "description": "Why is it called Puzzles? That's the puzzle.",
+      "homepage": "https://modrinth.com/mod/puzzles-lib",
+      "authors": [
+        "Fuzs"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "ResourcefulLib-5.0.4.jar",
+      "size_mb": 0.43,
+      "id": "resourcefullib",
+      "name": "Resourceful Lib",
+      "version": "5.0.4",
+      "loader": "Fabric",
+      "description": "Library Mod by Team Resourceful",
+      "homepage": "https://resourcefulbees.com",
+      "authors": [
+        "ThatGravyBoat",
+        "Epic_Oreo"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "shogi-fabric-26.2-26.2.0.5.jar",
+      "size_mb": 0.43,
+      "id": "shogi",
+      "name": "Shogi",
+      "version": "26.2.0.5",
+      "loader": "Fabric",
+      "description": "Rule-based properties and configuration for everything",
+      "homepage": "https://balm.twelveiterations.com/",
+      "authors": [
+        "BlayTheNinth"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "smoothswapping-0.9.10-26.2-fabric.jar",
+      "size_mb": 0.06,
+      "id": "smoothswapping",
+      "name": "Smooth Swapping",
+      "version": "0.9.10",
+      "loader": "Fabric",
+      "description": "Moves the items in an inventory smoothly instead of instantly",
+      "homepage": "https://modrinth.com/mod/smooth-swapping",
+      "authors": [
+        "Schauweg, Riflusso"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "sodium-fabric-0.9.1+mc26.2.jar",
+      "size_mb": 1.75,
+      "id": "sodium",
+      "name": "Sodium",
+      "version": "0.9.1+mc26.2",
+      "loader": "Fabric",
+      "description": "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues",
+      "homepage": "https://github.com/CaffeineMC/sodium",
+      "authors": [
+        "JellySquid (jellysquid3)"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "sound-physics-remastered-fabric-1.5.1+26.2.jar",
+      "size_mb": 0.19,
+      "id": "sound_physics_remastered",
+      "name": "Sound Physics Remastered",
+      "version": "1.5.1+26.2",
+      "loader": "Fabric",
+      "description": "Provides realistic sound attenuation, reverberation, and absorption through blocks.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+      "authors": [
+        "Sonic Ether",
+        "vlad2305m",
+        "Max Henkel",
+        "Saint"
+      ],
+      "category": "🔊 Audio & Ambientación"
+    },
+    {
+      "filename": "Structory_Towers_26.2_v1.0.17.jar",
+      "size_mb": 0.47,
+      "id": "structory_towers",
+      "name": "Structory: Towers",
+      "version": "1.0.17",
+      "loader": "Fabric",
+      "description": "An add-on for Structory that adds immersive, biome-themed towers to the world.",
+      "homepage": "https://www.stardustlabs.net/",
+      "authors": [
+        "Botany",
+        "Starmute",
+        "catter1"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "TerraBlender-fabric-26.2-26.2.0.0.2.jar",
+      "size_mb": 0.34,
+      "id": "terrablender",
+      "name": "TerraBlender",
+      "version": "26.2.0.0.2",
+      "loader": "Fabric",
+      "description": "A library mod for adding biomes in a simple and compatible manner with Minecraft's new biome/terrain system.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/terrablender",
+      "authors": [
+        "Adubbz"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "t_and_t-fabric-neoforge-1.13.11.jar",
+      "size_mb": 3.4,
+      "id": "t_and_t",
+      "name": "Towns and Towers",
+      "version": "1.13.11",
+      "loader": "Fabric",
+      "description": "Spice up your world with new villages, pillager outposts, and even new ships!",
+      "homepage": "https://modrinth.com/mod/towns-and-towers",
+      "authors": [
+        "Kubek",
+        "Biban_Auriu",
+        "Cristelknight999"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar",
+      "size_mb": 0.06,
+      "id": "visualworkbench",
+      "name": "Visual Workbench",
+      "version": "26.2.1",
+      "loader": "Fabric",
+      "description": "Items stay inside crafting tables and are also rendered on top. It's really fancy!",
+      "homepage": "https://modrinth.com/mod/visual-workbench",
+      "authors": [
+        "Fuzs"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "visuality-0.7.14+26.2.jar",
+      "size_mb": 0.08,
+      "id": "visuality",
+      "name": "Visuality",
+      "version": "0.7.14+26.2",
+      "loader": "Fabric",
+      "description": "Little visual improvements by adding a bunch of new particles.",
+      "homepage": "https://modrinth.com/mod/visuality",
+      "authors": [
+        "PinkGoosik"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "voicechatmoderator-26.2-v.1.1.2.1.jar",
+      "size_mb": 15.21,
+      "id": "voicechatmoderator",
+      "name": "VoiceChatModerator",
+      "version": "v.1.1.2.1",
+      "loader": "Fabric",
+      "description": "A client-side moderation & recording overlay for SimpleVoiceChat – shows who speaks, what they say (STT) and archives every session.",
+      "homepage": "https://git.it-wehgeh.de/AveGamers/voicechatmoderator",
+      "authors": [
+        "AveGamers"
+      ],
+      "category": "👥 Multijugador, Social & Chat de Voz"
+    },
+    {
+      "filename": "waystones-fabric-26.2-26.2.0.11.jar",
+      "size_mb": 1.16,
+      "id": "waystones",
+      "name": "Waystones",
+      "version": "26.2.0.11",
+      "loader": "Fabric",
+      "description": "Teleport back to activated waystones. For Survival, Adventure or Servers.",
+      "homepage": "https://mods.twelveiterations.com/mc/waystones",
+      "authors": [
+        "BlayTheNinth"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "worldedit-mod-7.4.5.jar",
+      "size_mb": 4.92,
+      "id": "worldedit",
+      "name": "WorldEdit",
+      "version": "7.4.5+7590-b8dc4c1",
+      "loader": "Fabric",
+      "description": "WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single- and multi-player.",
+      "homepage": "https://enginehub.org/worldedit/",
+      "authors": [
+        "EngineHub"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "worldweaver-26.201.2.jar",
+      "size_mb": 2.8,
+      "id": "wover",
+      "name": "WorldWeaver",
+      "version": "26.201.2",
+      "loader": "Fabric",
+      "description": "Unleash your world-building potential with WorldWeaver, a Minecraft utility mod for Fabric, simplifying tasks and enhancing the possibilities of data-driven world generation.",
+      "homepage": "https://github.com/quiqueck/WorldWeaver",
+      "authors": [
+        "Quiqueck"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "wthit-26.2-fabric-20.0.0.jar",
+      "size_mb": 0.88,
+      "id": "wthit",
+      "name": "wthit",
+      "version": "20.0.0",
+      "loader": "Fabric",
+      "description": "What the hell is that?",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/wthit",
+      "authors": [
+        "deirn",
+        "Nicholas \"TehNut\" Ignoffo",
+        "ProfMobius"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "wunderlib-26.201.0.jar",
+      "size_mb": 0.38,
+      "id": "wunderlib",
+      "name": "WunderLib",
+      "version": "26.201.0",
+      "loader": "Fabric",
+      "description": "A UI, Math and Networking Library",
+      "homepage": "https://github.com/quiqueck/WunderLib",
+      "authors": [
+        "Quiqueck"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "xaerominimap-fabric-26.2-26.4.2.jar",
+      "size_mb": 2.12,
+      "id": "xaerominimap",
+      "name": "Xaero's Minimap",
+      "version": "26.4.2",
+      "loader": "Fabric",
+      "description": "The most vanilla-looking minimap for Minecraft.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+      "authors": [
+        "xaero96"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "xaeroworldmap-fabric-26.2-1.45.0.jar",
+      "size_mb": 1.41,
+      "id": "xaeroworldmap",
+      "name": "Xaero's World Map",
+      "version": "1.45.0",
+      "loader": "Fabric",
+      "description": "A self-writing fullscreen map which also works as an add-on to Xaero's Minimap.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+      "authors": [
+        "xaero96"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+      "size_mb": 1.07,
+      "id": "yet_another_config_lib_v3",
+      "name": "YetAnotherConfigLib",
+      "version": "3.9.6+26.2-fabric",
+      "loader": "Fabric",
+      "description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.",
+      "homepage": "https://isxander.dev",
+      "authors": [
+        "isXander"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "zoomify-2.16.1+26.2.jar",
+      "size_mb": 0.54,
+      "id": "zoomify",
+      "name": "Zoomify",
+      "version": "2.16.1+26.2",
+      "loader": "Fabric",
+      "description": "A zoom mod with infinite customizability.",
+      "homepage": "https://isxander.dev",
+      "authors": [
+        "isXander"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    }
+  ]
+}

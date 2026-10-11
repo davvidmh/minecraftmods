@@ -1,0 +1,596 @@
+{
+  "version": "1.20.1",
+  "loader": "Fabric Loader 0.19.5",
+  "java": "Java 21",
+  "total_mods": 41,
+  "mods": [
+    {
+      "filename": "animatica-0.6.1+1.20.4.jar",
+      "size_mb": 0.07,
+      "id": "animatica",
+      "name": "Animatica",
+      "version": "0.6.1+1.20.4",
+      "loader": "Fabric",
+      "description": "Allow for animating more game textures using the MCPatcher/OptiFine animation format",
+      "homepage": "https://github.com/FoundationGames/Animatica",
+      "authors": [
+        "FoundationGames"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "Architects_NoVS-1.0.3-1.20.1.jar",
+      "size_mb": 3.42,
+      "id": "architects",
+      "name": "Architects",
+      "version": "1.0.3-1.20.1",
+      "loader": "Fabric",
+      "description": "This mod is a add-on mod of Conquest Reforged. Architects brings many new structural and decoration blocks",
+      "homepage": "https://conquestreforged.com/",
+      "authors": [
+        "SmaugTheDeceiver!"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "architectury-9.2.14-fabric.jar",
+      "size_mb": 0.56,
+      "id": "architectury",
+      "name": "Architectury",
+      "version": "9.2.14",
+      "loader": "Fabric",
+      "description": "A intermediary api aimed to ease developing multiplatform mods.",
+      "homepage": "https://architectury.github.io/architectury-documentations/",
+      "authors": [
+        "shedaniel"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "ArdaGrass-1.2-1.20.1.jar",
+      "size_mb": 0.04,
+      "id": "ardagrass",
+      "name": "ArdaGrass",
+      "version": "1.2-1.20.1",
+      "loader": "Fabric",
+      "description": "Better grass using continuity",
+      "homepage": "",
+      "authors": [
+        "JayemCeekay"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "azurelibarmor-fabric-1.20.1-2.0.14.jar",
+      "size_mb": 0.41,
+      "id": "azurelibarmor",
+      "name": "AzureLib Armor",
+      "version": "2.0.14",
+      "loader": "Fabric",
+      "description": "A striped down Azurelib just for Armor!",
+      "homepage": "https://modrinth.com/mod/azurelib-armor",
+      "authors": [
+        "AzureDoom, Gecko, Eliot, Hydos, DerToaster, Tslat, KyoSleep, Bvanseg"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "BadOptimizations-2.4.1-1.20.1.jar",
+      "size_mb": 0.44,
+      "id": "badoptimizations",
+      "name": "BadOptimizations",
+      "version": "2.4.1",
+      "loader": "Fabric",
+      "description": "Optimization mod that focuses on things other than rendering",
+      "homepage": "https://modrinth.com/mod/badoptimizations/",
+      "authors": [
+        "Thosea"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+      "size_mb": 1.7,
+      "id": "betterf3",
+      "name": "BetterF3",
+      "version": "7.0.2",
+      "loader": "Fabric",
+      "description": "Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+      "homepage": "https://modrinth.com/mod/betterf3",
+      "authors": [
+        "cominixo",
+        "TreyRuffy"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "citresewn-1.2.2+1.20.1.jar",
+      "size_mb": 0.38,
+      "id": "citresewn",
+      "name": "CIT Resewn",
+      "version": "1.2.2+1.20.1",
+      "loader": "Fabric",
+      "description": "Re-implements MCPatcher's CIT",
+      "homepage": "https://citresewn.shcm.io/",
+      "authors": [
+        "SHsuperCM"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "cloth-config-11.1.136-fabric.jar",
+      "size_mb": 1.12,
+      "id": "cloth-config",
+      "name": "Cloth Config v11",
+      "version": "11.1.136",
+      "loader": "Fabric",
+      "description": "An API for config screens.",
+      "homepage": "https://minecraft.curseforge.com/projects/cloth-config",
+      "authors": [
+        "shedaniel"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "ConquestRecipes-v0.0.8-1.20.1.jar",
+      "size_mb": 9.53,
+      "id": "conquestrecipes",
+      "name": "Conquest Recipes",
+      "version": "v0.0.8",
+      "loader": "Fabric",
+      "description": "Recipe Compatibility Add-On For Conquest Reforged",
+      "homepage": "",
+      "authors": [],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "MedievalArmsCR-1.0.0.jar",
+      "size_mb": 1.25,
+      "id": "conq_medieval_arms-mod",
+      "name": "Conquest's Medieval Arms",
+      "version": "1.0.0",
+      "loader": "Fabric",
+      "description": "A mod that adds realistic medieval weapons and armors",
+      "homepage": "https://conquestreforged.com/",
+      "authors": [
+        "Hippokleides",
+        "Monsterfish_",
+        "Kurgahn"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "ConquestReforged-fabric-1.20.1-1.7.0.jar",
+      "size_mb": 224.38,
+      "id": "conquest",
+      "name": "ConquestReforged Fabric",
+      "version": "1.7.0",
+      "loader": "Fabric",
+      "description": "ConquestReforged Fabric Main Module",
+      "homepage": "",
+      "authors": [
+        "Hippokleides",
+        "Monsterfish",
+        "JayemCeekay"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "continuity-3.0.0-beta.6+1.20.1-custom.jar",
+      "size_mb": 0.98,
+      "id": "continuity",
+      "name": "Continuity",
+      "version": "3.0.0-beta.6+1.20.1",
+      "loader": "Fabric",
+      "description": "Continuity is a Fabric mod that allows resource packs that use the OptiFine connected textures format, OptiFine emissive textures format (only for blocks and item models), or OptiFine custom block layers format to work without OptiFine.",
+      "homepage": "https://modrinth.com/mod/continuity",
+      "authors": [
+        "PepperCode1"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "Cull Less Leaves-1.4.2+1.21-fabric.jar",
+      "size_mb": 0.03,
+      "id": "cull-less-leaves",
+      "name": "Cull Less Leaves",
+      "version": "1.4.2+1.21-fabric",
+      "loader": "Fabric",
+      "description": "Cull Leaves whilst looking hot!",
+      "homepage": "https://isxander.dev",
+      "authors": [
+        "isXander"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "DistantHorizonsApi-4.0.1.jar",
+      "size_mb": 0.31,
+      "id": "dh-api",
+      "name": "DhApi",
+      "version": "1.0",
+      "loader": "Fabric",
+      "description": "This is just a placeholder to make uploading to Modrinth happy. Don't try running this jar in Minecraft. Note: while the API mod appears in mod menu lists when running DH via gradle, it won't appear when DH has been built and run in retail MC.",
+      "homepage": "",
+      "authors": [],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+      "size_mb": 17.1,
+      "id": "distanthorizons",
+      "name": "Distant Horizons",
+      "version": "2.3.4-b",
+      "loader": "Fabric",
+      "description": "This mod generates and renders simplified terrain beyond the normal view distance at a low performance cost. Allowing you to see much farther without turning your game into a slideshow.",
+      "homepage": "https://modrinth.com/mod/distanthorizons",
+      "authors": [
+        "James Seibel",
+        "Leonardo Amato",
+        "Cola",
+        "coolGi",
+        "Ran",
+        "Leetom",
+        "pshsh"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "entity_model_features_1.20.1-fabric-3.0.1.jar",
+      "size_mb": 0.45,
+      "id": "entity_model_features",
+      "name": "Entity Model Features",
+      "version": "3.0.1",
+      "loader": "Fabric",
+      "description": "This is an expansion of the ETF mod, it adds support for OptiFine format Custom Entity Model (CEM) resource packs. While still allowing you to disable this to use a different model mod :)",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+      "authors": [
+        "Traben"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "entity_texture_features_1.20.1-fabric-7.0.1.jar",
+      "size_mb": 0.68,
+      "id": "entity_texture_features",
+      "name": "Entity Texture Features",
+      "version": "7.0.1",
+      "loader": "Fabric",
+      "description": "Adds support for resource-pack driven features for entity textures including some OptiFine features Supports OptiFine: - Random & Custom textures - Emissive textures With more features such as: - Blinking textures - Player Skin support",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+      "authors": [
+        "Traben"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "entityculling-fabric-1.8.2-mc1.20.1.jar",
+      "size_mb": 0.45,
+      "id": "entityculling",
+      "name": "EntityCulling",
+      "version": "1.8.2",
+      "loader": "Fabric",
+      "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible.",
+      "homepage": "https://modrinth.com/mod/entityculling",
+      "authors": [
+        "tr7zw"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "fabric-api-0.92.2+1.20.1.jar",
+      "size_mb": 2.01,
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "version": "0.92.2+1.20.1",
+      "loader": "Fabric",
+      "description": "Core API module providing key hooks and intercompatibility features.",
+      "homepage": "https://fabricmc.net",
+      "authors": [
+        "FabricMC"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "fabricskyboxes-0.7.3+mc1.20.1-custom.jar",
+      "size_mb": 0.2,
+      "id": "fabricskyboxes",
+      "name": "FabricSkyBoxes",
+      "version": "0.7.3+mc1.20.1",
+      "loader": "Fabric",
+      "description": "Adds custom skybox support to MC",
+      "homepage": "",
+      "authors": [
+        "AMereBagatelle"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "ferritecore-6.0.1-fabric.jar",
+      "size_mb": 0.12,
+      "id": "ferritecore",
+      "name": "FerriteCore",
+      "version": "6.0.1",
+      "loader": "Fabric",
+      "description": "Reduces memory usage",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric",
+      "authors": [
+        "malte0811"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "Hearthfire-1.0.4-1.20.1.jar",
+      "size_mb": 5.88,
+      "id": "hearthfire",
+      "name": "Hearthfire",
+      "version": "1.0.4-1.20.1",
+      "loader": "Fabric",
+      "description": "This mod is a Sub-mod of Conquest Reforged. In addition to bringing decoration blocks from Conquest Reforged, there are also many new blocks!",
+      "homepage": "https://conquestreforged.com/",
+      "authors": [
+        "SmaugTheDeceiver"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
+      "size_mb": 0.23,
+      "id": "immediatelyfast",
+      "name": "ImmediatelyFast",
+      "version": "1.5.1+1.20.4",
+      "loader": "Fabric",
+      "description": "Speed up and optimize immediate mode rendering in Minecraft",
+      "homepage": "https://modrinth.com/mod/immediatelyfast",
+      "authors": [
+        "RK_01"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "indium-1.0.36+mc1.20.1.jar",
+      "size_mb": 0.1,
+      "id": "indium",
+      "name": "Indium",
+      "version": "1.0.36+mc1.20.1",
+      "loader": "Fabric",
+      "description": "Sodium addon providing support for the Fabric Rendering API, based on Indigo",
+      "homepage": "https://modrinth.com/mod/indium",
+      "authors": [
+        "comp500"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "iris-1.7.6+mc1.20.1.jar",
+      "size_mb": 2.6,
+      "id": "iris",
+      "name": "Iris",
+      "version": "1.7.6+mc1.20.1",
+      "loader": "Fabric",
+      "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
+      "homepage": "https://github.com/IrisShaders/Iris",
+      "authors": [
+        "coderbot",
+        "IMS212",
+        "Justsnoopy30",
+        "FoundationGames"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "krypton-0.2.3.jar",
+      "size_mb": 0.18,
+      "id": "krypton",
+      "name": "Krypton",
+      "version": "0.2.3",
+      "loader": "Fabric",
+      "description": "A Fabric mod that optimizes the Minecraft networking stack and entity tracker.",
+      "homepage": "",
+      "authors": [
+        "tuxed"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "lithium-fabric-mc1.20.1-0.11.3.jar",
+      "size_mb": 0.67,
+      "id": "lithium",
+      "name": "Lithium",
+      "version": "0.11.3",
+      "loader": "Fabric",
+      "description": "Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game.",
+      "homepage": "https://jellysquid.me/projects/",
+      "authors": [
+        "JellySquid",
+        "2No2Name"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+      "size_mb": 0.05,
+      "id": "memoryleakfix",
+      "name": "Memory Leak Fix",
+      "version": "1.1.5",
+      "loader": "Fabric",
+      "description": "A mod which fixes multiple memory leaks, both client-side & server-side",
+      "homepage": "https://github.com/fxmorin/memoryleakfix",
+      "authors": [
+        "FX - PR0CESS"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "modmenu-7.2.2.jar",
+      "size_mb": 0.69,
+      "id": "modmenu",
+      "name": "Mod Menu",
+      "version": "7.2.2",
+      "loader": "Fabric",
+      "description": "Adds a mod menu to view the list of mods you have installed.",
+      "homepage": "https://modrinth.com/mod/modmenu",
+      "authors": [
+        "Prospector",
+        "haykam821",
+        "TerraformersMC"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "modernfix-fabric-5.25.2+mc1.20.1.jar",
+      "size_mb": 0.52,
+      "id": "modernfix",
+      "name": "ModernFix",
+      "version": "5.25.2+mc1.20.1",
+      "loader": "Fabric",
+      "description": "Egregious, yet effective performance improvements for modern Minecraft",
+      "homepage": "https://modrinth.com/mod/modernfix",
+      "authors": [
+        "embeddedt"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "paintbrush-1.3.2.jar",
+      "size_mb": 0.12,
+      "id": "paintbrush",
+      "name": "Paintbrush",
+      "version": "1.3.2",
+      "loader": "Fabric",
+      "description": "Adds a paintbrush to paint over blocks with a selected material.",
+      "homepage": "https://ajcool.space",
+      "authors": [
+        "Ajcool"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "polytone-1.20-3.5.5-fabric.jar",
+      "size_mb": 0.89,
+      "id": "polytone",
+      "name": "Polytone",
+      "version": "1.20-3.5.5",
+      "loader": "Fabric",
+      "description": "Your Resource Packs Best Friend",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/polytone",
+      "authors": [
+        "MehVahdJukaar"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "puzzle-fabric-2.3.0+1.20.1.jar",
+      "size_mb": 0.14,
+      "id": "puzzle",
+      "name": "Puzzle",
+      "version": "2.3.0",
+      "loader": "Fabric",
+      "description": "Unites optifine replacement mods in a clean & vanilla-style gui",
+      "homepage": "https://www.midnightdust.eu/",
+      "authors": [
+        "PuzzleMC",
+        "Motschen"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+      "size_mb": 0.07,
+      "id": "reeses-sodium-options",
+      "name": "Reese's Sodium Options",
+      "version": "1.7.2+mc1.20.1-build.101",
+      "loader": "Fabric",
+      "description": "Replaces Sodium's Options Screen",
+      "homepage": "https://github.com/FlashyReese/reeses-sodium-options",
+      "authors": [
+        "FlashyReese"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "RoughlyEnoughItems-12.1.785-fabric.jar",
+      "size_mb": 2.33,
+      "id": "roughlyenoughitems",
+      "name": "Roughly Enough Items",
+      "version": "12.1.785",
+      "loader": "Fabric",
+      "description": "Clean and Customizable.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items",
+      "authors": [
+        "shedaniel"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "sodium-fabric-0.5.13+mc1.20.1.jar",
+      "size_mb": 0.93,
+      "id": "sodium",
+      "name": "Sodium",
+      "version": "0.5.13+mc1.20.1",
+      "loader": "Fabric",
+      "description": "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues",
+      "homepage": "https://github.com/CaffeineMC/sodium-fabric",
+      "authors": [
+        "JellySquid (jellysquid3)"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "starlight-1.1.2+fabric.dbc156f.jar",
+      "size_mb": 0.12,
+      "id": "starlight",
+      "name": "Starlight",
+      "version": "1.1.2+fabric.dbc156f",
+      "loader": "Fabric",
+      "description": "Rewrites the light engine to fix lighting performance and lighting errors",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/starlight",
+      "authors": [
+        "Spottedleaf"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "worldedit-mod-7.2.15.jar",
+      "size_mb": 5.56,
+      "id": "worldedit",
+      "name": "WorldEdit",
+      "version": "7.2.15+6463-5ca4dff",
+      "loader": "Fabric",
+      "description": "WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single- and multi-player.",
+      "homepage": "https://enginehub.org/worldedit/",
+      "authors": [
+        "EngineHub"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+      "size_mb": 1.23,
+      "id": "yet_another_config_lib_v3",
+      "name": "YetAnotherConfigLib",
+      "version": "3.6.6+1.20.1-fabric",
+      "loader": "Fabric",
+      "description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.",
+      "homepage": "https://isxander.dev",
+      "authors": [
+        "isXander"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "yosbr-0.1.2.jar",
+      "size_mb": 0.02,
+      "id": "yosbr",
+      "name": "YOSBR",
+      "version": "0.1.2",
+      "loader": "Fabric",
+      "description": "Your options shall be respected.",
+      "homepage": "",
+      "authors": [
+        "shedaniel"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    }
+  ]
+}

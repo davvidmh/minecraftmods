@@ -1,0 +1,148 @@
+{
+  "version": "1.20.1",
+  "loader": "Forge 47.1.106",
+  "java": "Java 21",
+  "total_mods": 10,
+  "mods": [
+    {
+      "filename": "BadOptimizations-2.4.1-1.20.1.jar",
+      "size_mb": 0.44,
+      "id": "badoptimizations",
+      "name": "BadOptimizations",
+      "version": "2.4.1",
+      "loader": "Fabric",
+      "description": "Optimization mod that focuses on things other than rendering",
+      "homepage": "https://modrinth.com/mod/badoptimizations/",
+      "authors": [
+        "Thosea"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "canary-mc1.20.1-0.3.3.jar",
+      "size_mb": 0.57,
+      "id": "canary",
+      "name": "Canary",
+      "version": "0.3.3",
+      "loader": "Forge",
+      "description": "A performance mod designed to optimize Minecraft's general performance and unofficial fork of Lithium mod for Minecraft Forge.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/canary",
+      "authors": [
+        "AbdElAziz"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "embeddium-0.3.31+mc1.20.1.jar",
+      "size_mb": 1.26,
+      "id": "embeddium",
+      "name": "Embeddium",
+      "version": "0.3.31+mc1.20.1",
+      "loader": "Forge",
+      "description": "Embeddium is a fork of Rubidium, a fork of Sodium with patches for Forge",
+      "homepage": "",
+      "authors": [
+        "embeddedt"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "entityculling-forge-1.10.5-mc1.20.1.jar",
+      "size_mb": 1.52,
+      "id": "entityculling",
+      "name": "EntityCulling",
+      "version": "1.10.5",
+      "loader": "Forge",
+      "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible.",
+      "homepage": "https://modrinth.com/mod/entityculling",
+      "authors": [
+        "tr7zw"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "ferritecore-6.0.1-forge.jar",
+      "size_mb": 0.12,
+      "id": "ferritecore",
+      "name": "Ferrite Core",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Reduces memory usage.",
+      "homepage": "",
+      "authors": [
+        "malte0811"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "size_mb": 0.51,
+      "id": "immediatelyfast",
+      "name": "ImmediatelyFast",
+      "version": "1.5.5+1.20.4",
+      "loader": "Forge",
+      "description": "Speed up and optimize immediate mode rendering in Minecraft",
+      "homepage": "https://github.com/RaphiMC/ImmediatelyFast",
+      "authors": [
+        "RK_01"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "Liminal_Spaces_Mod_512x.jar",
+      "size_mb": 161.39,
+      "id": "liminal_spaces",
+      "name": "Liminal Spaces",
+      "version": "1.0.0",
+      "loader": "Forge",
+      "description": "Unique realistic horror experience in Minecraft. Requires the official Liminal Spaces map and resource pack.",
+      "homepage": "https://www.designio.graphics/",
+      "authors": [
+        "Designio Graphics"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "memoryleakfix-forge-1.17+-1.1.5.jar",
+      "size_mb": 0.22,
+      "id": "memoryleakfix",
+      "name": "Memory Leak Fix",
+      "version": "1.1.5",
+      "loader": "Forge",
+      "description": "A mod which fixes multiple memory leaks, both client-side & server-side",
+      "homepage": "",
+      "authors": [
+        "FX - PR0CESS"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "modernfix-forge-5.27.83+mc1.20.1.jar",
+      "size_mb": 0.96,
+      "id": "modernfix",
+      "name": "ModernFix",
+      "version": "5.27.83+mc1.20.1",
+      "loader": "Forge",
+      "description": "Egregious, yet effective performance improvements for modern Minecraft",
+      "homepage": "https://modrinth.com/mod/modernfix",
+      "authors": [
+        "embeddedt"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "size_mb": 2.72,
+      "id": "oculus",
+      "name": "Oculus",
+      "version": "1.8.0",
+      "loader": "Forge",
+      "description": "Unofficial Fork of \"Iris\", made to work with FML",
+      "homepage": "https://curseforge.com/minecraft/mc-mods/oculus",
+      "authors": [
+        "NanoLive, dima_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    }
+  ]
+}

@@ -1,0 +1,775 @@
+{
+  "version": "1.18.2",
+  "loader": "Forge (1.18.2)",
+  "java": "Java 17 / 21",
+  "total_mods": 55,
+  "mods": [
+    {
+      "filename": "alexsmobs-1.18.6.jar",
+      "size_mb": 21.4,
+      "id": "alexsmobs",
+      "name": "Alex's Mobs",
+      "version": "1.18.6",
+      "loader": "Forge",
+      "description": "New, original, engaging, and aesthetic mobs for Minecraft.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+      "authors": [
+        "Alexthe668, Carro1001"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "AmbientSounds_FORGE_v5.0.16_mc1.18.2.jar",
+      "size_mb": 71.9,
+      "id": "ambientsounds",
+      "name": "Ambiend Sounds (Fabric)",
+      "version": "${version}",
+      "loader": "Fabric",
+      "description": "Expands minecraft's ambient sounds.",
+      "homepage": "",
+      "authors": [
+        "CreativeMD",
+        "AriaFreeze"
+      ],
+      "category": "🔊 Audio & Ambientación"
+    },
+    {
+      "filename": "appleskin-forge-mc1.18-2.4.0.jar",
+      "size_mb": 0.04,
+      "id": "appleskin",
+      "name": "AppleSkin",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Adds various food-related HUD improvements",
+      "homepage": "https://github.com/squeek502/AppleSkin",
+      "authors": [
+        "squeek"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "architectury-4.3.53.jar",
+      "size_mb": 0.49,
+      "id": "architectury",
+      "name": "Architectury",
+      "version": "4.3.53",
+      "loader": "Forge",
+      "description": "A intermediary api aimed to ease developing multiplatform mods.",
+      "homepage": "",
+      "authors": [
+        "shedaniel"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "backpacked-2.1.6-1.18.2.jar",
+      "size_mb": 0.37,
+      "id": "backpacked",
+      "name": "Backpacked",
+      "version": "2.1.6",
+      "loader": "Forge",
+      "description": "Adds a simple backpack to store more items",
+      "homepage": "https://mrcrayfish.com/mods?id=backpacked",
+      "authors": [
+        "MrCrayfish"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "badpackets-forge-0.1.2.jar",
+      "size_mb": 0.02,
+      "id": "badpackets",
+      "name": "Bad Packets API",
+      "version": "0.1.2",
+      "loader": "Forge",
+      "description": "Allow packet messaging between multiple modding platform.",
+      "homepage": "",
+      "authors": [
+        "deirn"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "balm-3.0.3+0.jar",
+      "size_mb": 0.59,
+      "id": "balm",
+      "name": "Balm",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Abstraction Layer (but not really)™ for Blay's multiplatform mods",
+      "homepage": "https://blay09.net/",
+      "authors": [
+        "BlayTheNinth"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "betteranimalsplus-1.18.2-11.0.5-forge.jar",
+      "size_mb": 2.04,
+      "id": "betteranimalsplus",
+      "name": "Better Animals Plus",
+      "version": "1.18.2-11.0.5",
+      "loader": "Forge",
+      "description": "~Breathing new life into your worlds~ Adds 35+ new animals to your world, with items, food, blocks, and armor to supplement them.",
+      "homepage": "",
+      "authors": [],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "BetterThirdPerson-Forge-1.18.2-1.7.3.jar",
+      "size_mb": 0.05,
+      "id": "betterthirdperson",
+      "name": "Better Third Person",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Adds independent camera rotation for third-person view",
+      "homepage": "",
+      "authors": [
+        "Socolio"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "BetterVillage-Forge-1.18.2-1.0.0.jar",
+      "size_mb": 0.99,
+      "id": "bettervillage",
+      "name": "Better Village",
+      "version": "",
+      "loader": "Forge",
+      "description": "Better village vanilla, redesign the vanilla village",
+      "homepage": "",
+      "authors": [],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "blue_skies-1.18.2-1.3.10.jar",
+      "size_mb": 78.95,
+      "id": "blue_skies",
+      "name": "Blue Skies",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Blue Skies adds two dimensions called the Everbright and the Everdawn. It includes lots of new unique features, blocks, weapons, mobs and even massive dungeons! Each dimension has its own theme, with the Everbright being very bright, snowy and cold while the Everdawn is typically darker and warm. Each of these dimensions currently has two dungeons to explore, totaling up to 4 dungeons, with more planned on the way!",
+      "homepage": "https://moddinglegacy.com/",
+      "authors": [
+        "KingPhygieBoo, Silver_David, Lachney"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "cameraoverhaul-1.0-1.18.2.jar",
+      "size_mb": 0.04,
+      "id": "cameraoverhaul",
+      "name": "Camera Overhaul",
+      "version": "1.0.0",
+      "loader": "Forge",
+      "description": "Makes gameplay more satisfying through the use of various camera tilting. Compatible with everything. Configurable through the '.minecraft/config/cameraoverhaul.json' file for finer control.",
+      "homepage": "",
+      "authors": [
+        "Mirsario, Forge Port: CorgiTaco"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "ChunkAnimator-1.18.2-1.3.4.jar",
+      "size_mb": 0.03,
+      "id": "chunkanimator",
+      "name": "Chunk Animator",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "A small client side mod that animates the appeareance of chunks so that they don't just instantly appear.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/chunk-animator",
+      "authors": [
+        "Lumien"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "ColdSweat-2.1.9.2.jar",
+      "size_mb": 0.58,
+      "id": "cold_sweat",
+      "name": "Cold Sweat",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "",
+      "homepage": "",
+      "authors": [
+        "iMikul, chubbymomo, skinnymomo"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "collective-1.18.2-4.25.jar",
+      "size_mb": 0.14,
+      "id": "collective",
+      "name": "Collective",
+      "version": "4.25",
+      "loader": "Forge",
+      "description": "Collective is a shared library with common code for all of Serilum's mods.",
+      "homepage": "https://curseforge.com/minecraft/mc-mods/collective",
+      "authors": [
+        "Rick South"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "comforts-forge-1.18.2-5.0.0.4.jar",
+      "size_mb": 0.21,
+      "id": "comforts",
+      "name": "Comforts",
+      "version": "1.18.2-5.0.0.4",
+      "loader": "Forge",
+      "description": "Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!",
+      "homepage": "https://github.com/TheIllusiveC4/Comforts",
+      "authors": [
+        "C4"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "corpse-1.18.2-1.0.1.jar",
+      "size_mb": 0.21,
+      "id": "corpse",
+      "name": "Corpse",
+      "version": "1.18.2-1.0.1",
+      "loader": "Forge",
+      "description": "This mod brings a corpse into the game. It will spawn upon your death containing all items that you had in your inventory.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+      "authors": [
+        "Max Henkel"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "CreativeCore_FORGE_v2.6.9_mc1.18.2.jar",
+      "size_mb": 0.79,
+      "id": "creativecore",
+      "name": "CreativeCore",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "A simple but powerful coremod.",
+      "homepage": "https://minecraft.curseforge.com/projects/creativecore",
+      "authors": [
+        "CreativeMD"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "DungeonCrawl-1.18.2-2.3.8.jar",
+      "size_mb": 0.74,
+      "id": "dungeoncrawl",
+      "name": "Dungeon Crawl",
+      "version": "2.3.8",
+      "loader": "Forge",
+      "description": "Dungeon Crawl, a spiritual successor to Roguelike Dungeons.",
+      "homepage": "",
+      "authors": [
+        "xiroc"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "EpicFight-18.3.3-beta.jar",
+      "size_mb": 3.96,
+      "id": "epicfight",
+      "name": "Epic Fight",
+      "version": "18.3.3",
+      "loader": "Forge",
+      "description": "",
+      "homepage": "",
+      "authors": [],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "Fallingleaves-1.18.2-1.3.2.jar",
+      "size_mb": 0.11,
+      "id": "fallingleaves",
+      "name": "Falling Leaves",
+      "version": "1.3.2",
+      "loader": "Forge",
+      "description": "How the gentle wind beckons through the leaves as autumn colors fall, dancing in a swirl of golden memories: the loveliest lies of all.",
+      "homepage": "",
+      "authors": [
+        "Cheaterpaul, Fourmisain, BrekiTomasson and RandomMcSomethin"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "FarmersDelight-1.18.2-1.1.0.jar",
+      "size_mb": 2.44,
+      "id": "farmersdelight",
+      "name": "Farmer's Delight",
+      "version": "1.18.2-1.1.0",
+      "loader": "Forge",
+      "description": "A lightweight farming and cooking expansion for Minecraft!",
+      "homepage": "https://github.com/vectorwing/FarmersDelight",
+      "authors": [
+        "vectorwing"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "friendsandfoes-forge-mc1.18.2-1.4.5.jar",
+      "size_mb": 1.04,
+      "id": "friendsandfoes",
+      "name": "Friends&Foes",
+      "version": "1.4.5",
+      "loader": "Forge",
+      "description": "Adds all eliminated mobs from the minecraft mob votes along with the forgotten mobs like the Illusioner.",
+      "homepage": "",
+      "authors": [
+        "Faboslav"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "guardvillagers-1.18.2.1.4.1.jar",
+      "size_mb": 0.17,
+      "id": "guardvillagers",
+      "name": "Guard Villagers",
+      "version": "1.4.1",
+      "loader": "Forge",
+      "description": "Need some help with pest control? The Guards are ready to help!",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/guard-villagers",
+      "authors": [
+        "TallestEgg, HadeZ/SadNya69 for the textures."
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "TreeChop-1.18.2-0.15.7.jar",
+      "size_mb": 0.25,
+      "id": "treechop",
+      "name": "HT's TreeChop",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Makes trees more choppable.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/treechop",
+      "authors": [
+        "HammerTater"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "Hyle-forge-1.18.2-0.1.0.jar",
+      "size_mb": 0.22,
+      "id": "hyle",
+      "name": "Hyle",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "A versatile underground stone replacer library",
+      "homepage": "",
+      "authors": [
+        "lilypuree"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "illuminations-1.10.2.jar",
+      "size_mb": 1.22,
+      "id": "illuminations",
+      "name": "Illuminations",
+      "version": "1.10.2",
+      "loader": "Fabric",
+      "description": "Fireflies, other illuminations to make your world more enjoyable in darkness and player cosmetics.",
+      "homepage": "https://illuminations.uuid.gg/",
+      "authors": [
+        "doctor4t"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "jei-1.18.2-9.7.0.194.jar",
+      "size_mb": 0.95,
+      "id": "jei",
+      "name": "Just Enough Items",
+      "version": "9.7.0.194",
+      "loader": "Forge",
+      "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.",
+      "homepage": "https://minecraft.curseforge.com/projects/jei",
+      "authors": [
+        "mezz"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "lazydfu-0.1.2.jar",
+      "size_mb": 0.01,
+      "id": "lazydfu",
+      "name": "LazyDFU",
+      "version": "0.1.2",
+      "loader": "Fabric",
+      "description": "Makes DataFixerUpper more lazy",
+      "homepage": "",
+      "authors": [
+        "tuxed"
+      ],
+      "category": "⚡ Rendimiento & Optimización"
+    },
+    {
+      "filename": "LibraryFerret-Forge-1.18.2-1.0.3.jar",
+      "size_mb": 0.01,
+      "id": "libraryferret",
+      "name": "Library ferret",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Library Ferret: shared code for my mods.",
+      "homepage": "",
+      "authors": [
+        "JTorLeon"
+      ],
+      "category": "📚 Librerías & APIs del Sistema"
+    },
+    {
+      "filename": "Nimble-1.18-forge-2.2.1.jar",
+      "size_mb": 0.01,
+      "id": "nimble",
+      "name": "Nimble",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Perspective animation, Auto third person, Elytra camera roll",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/nimble",
+      "authors": [
+        "Snownee"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "OptiFine_1.18.2_HD_U_H7.jar",
+      "size_mb": 6.3,
+      "id": "optifine",
+      "name": "OptiFine",
+      "version": "1.0.0",
+      "loader": "Forge",
+      "description": "OptiFine is a Minecraft optimization mod. It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.",
+      "homepage": "https://optifine.net",
+      "authors": [
+        "sp614x"
+      ],
+      "category": "🎨 Gráficos, Efectos & Animaciones"
+    },
+    {
+      "filename": "PresenceFootsteps-1.5.0.jar",
+      "size_mb": 6.87,
+      "id": "presencefootsteps",
+      "name": "Presence Footsteps",
+      "version": "1.5.0",
+      "loader": "Fabric",
+      "description": "An overly complicated sound mod.",
+      "homepage": "https://minecraft.ha3.eu/presencefootsteps",
+      "authors": [
+        "Hurricaaane (Ha3)",
+        "Sollace"
+      ],
+      "category": "🔊 Audio & Ambientación"
+    },
+    {
+      "filename": "PresenceFootsteps-1.18.2-1.5.0-beta1-forge.jar",
+      "size_mb": 6.83,
+      "id": "presencefootsteps",
+      "name": "Presence Footsteps (Forge)",
+      "version": "1.18.2-1.5.0-beta1",
+      "loader": "Forge",
+      "description": "An overly complicated sound mod, ported to Forge.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge",
+      "authors": [
+        "Hurricaaane, Sollace, Paint_Ninja"
+      ],
+      "category": "🔊 Audio & Ambientación"
+    },
+    {
+      "filename": "rare-ice-0.4.1.jar",
+      "size_mb": 0.04,
+      "id": "rare_ice",
+      "name": "Rare Ice",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Adds rare ice into the world. Can you find them?",
+      "homepage": "",
+      "authors": [],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "seamless_loading_screen-1.18-3.0.0.jar",
+      "size_mb": 0.03,
+      "id": "seamless_loading_screen",
+      "name": "Seamless Loading Screen",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Forge port of Seamless Loading Screen Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen-forge",
+      "authors": [
+        "Minenash, DaDerpDuck"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "SereneSeasons-1.18.2-7.0.0.15.jar",
+      "size_mb": 0.13,
+      "id": "sereneseasons",
+      "name": "Serene Seasons",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Adds seasons with changing colors, temperature shifting, and more!",
+      "homepage": "",
+      "authors": [
+        "Adubbz, Forstride"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "soundphysics-forge-1.18-1.0.2.jar",
+      "size_mb": 0.09,
+      "id": "sound_physics_remastered",
+      "name": "Sound Physics Remastered",
+      "version": "1.18-1.0.2",
+      "loader": "Forge",
+      "description": "Provides realistic sound attenuation, reverberation, and absorption through blocks.",
+      "homepage": "",
+      "authors": [],
+      "category": "🔊 Audio & Ambientación"
+    },
+    {
+      "filename": "Strawgolem-forge-1.18.2-2.0.0b1.jar",
+      "size_mb": 1.02,
+      "id": "strawgolem",
+      "name": "Straw Golem",
+      "version": "2.0.0b1",
+      "loader": "Forge",
+      "description": "Straw Golem! It's a farmer!",
+      "homepage": "",
+      "authors": [
+        "CommodoreThrawn"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "structure_gel-1.18.2-2.2.3.jar",
+      "size_mb": 0.43,
+      "id": "structure_gel",
+      "name": "Structure Gel API",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "An API mod to improve the developer side of structure gen",
+      "homepage": "https://moddinglegacy.com/",
+      "authors": [
+        "Silver_David, KingPhygieBoo, Jonathing"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "twilightforest-1.18.2-4.1.1102-universal.jar",
+      "size_mb": 31.4,
+      "id": "twilightforest",
+      "name": "The Twilight Forest",
+      "version": "4.1.1102",
+      "loader": "Forge",
+      "description": "An enchanted forest dimension.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
+      "authors": [
+        "Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, Jodlodi"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "TravelersTitles-1.18.2-Forge-2.1.1.jar",
+      "size_mb": 0.36,
+      "id": "travelerstitles",
+      "name": "Traveler's Titles",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Epic, RPG-like titles when entering biomes & dimensions",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/travelers-titles",
+      "authors": [
+        "YUNGNICKYOUNG"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "Unearthed-forge-1.18.2-2.3.1-slim.jar",
+      "size_mb": 1.42,
+      "id": "unearthed",
+      "name": "Unearthed",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "A mod that makes exploring underground interesting. Adds 21 new rocks!",
+      "homepage": "",
+      "authors": [
+        "lilypuree"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "villagespawnpoint_1.18.2-1.9.jar",
+      "size_mb": 0.01,
+      "id": "villagespawnpoint",
+      "name": "Village Spawn Point",
+      "version": "1.9",
+      "loader": "Forge",
+      "description": "Sets the spawn point of a new world to always be in the center of a village.",
+      "homepage": "https://curseforge.com/minecraft/mc-mods/village-spawn-point",
+      "authors": [
+        "Rick South"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "Waddles-1.18.2-0.8.19.jar",
+      "size_mb": 0.24,
+      "id": "waddles",
+      "name": "Waddles",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Waddles adds somewhat realistic Adélie penguins that waddle.",
+      "homepage": "https://minecraft.curseforge.com/projects/waddles",
+      "authors": [
+        "Girafi"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "waystones-forge-1.18.2-10.0.0.jar",
+      "size_mb": 0.34,
+      "id": "waystones",
+      "name": "Waystones",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Teleport back to activated waystones. For Survival, Adventure or Servers.",
+      "homepage": "https://blay09.net/mods/waystones",
+      "authors": [
+        "BlayTheNinth"
+      ],
+      "category": "⚔️ Aventura, Mobs & Mecánicas de Juego"
+    },
+    {
+      "filename": "DungeonsArise-1.18.2-2.1.50d-beta.jar",
+      "size_mb": 5.16,
+      "id": "dungeons_arise",
+      "name": "When Dungeons Arise",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "Elegant - and likely dangerous - structures and roguelike dungeons to lose yourself in...",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise",
+      "authors": [
+        "Aurelj, DiamondTown and Zephyrusj"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "wwoo-2.1+1.18.1.jar",
+      "size_mb": 0.47,
+      "id": "wwoo",
+      "name": "William Wythers' Overhauled Overworld",
+      "version": "2.1+1.18.1",
+      "loader": "Fabric",
+      "description": "In this mod I seek to re-create the vanilla biomes in a way that makes a more realistic and atmospheric world.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld",
+      "authors": [
+        "Cristelknight999",
+        "William Wythers"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "worldedit-mod-7.2.10.jar",
+      "size_mb": 5.25,
+      "id": "worldedit",
+      "name": "WorldEdit",
+      "version": "7.2.10+1742f98",
+      "loader": "Fabric",
+      "description": "WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single- and multi-player.",
+      "homepage": "https://enginehub.org/worldedit/",
+      "authors": [
+        "sk89q",
+        "wizjany",
+        "TomyLobo",
+        "octylFractal",
+        "Me4502"
+      ],
+      "category": "📦 Otros / Utilidades de Juego"
+    },
+    {
+      "filename": "wthit-forge-4.10.1.jar",
+      "size_mb": 0.32,
+      "id": "wthit",
+      "name": "wthit",
+      "version": "4.10.1",
+      "loader": "Forge",
+      "description": "What the hell is that? Forge Edition",
+      "homepage": "",
+      "authors": [
+        "deirn, TehNut, ProfMobius"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "Xaeros_Minimap_22.7.0_Forge_1.18.2.jar",
+      "size_mb": 1.09,
+      "id": "xaerominimap",
+      "name": "Xaero's Minimap",
+      "version": "22.7.0",
+      "loader": "Forge",
+      "description": "The most vanilla-looking minimap for Minecraft.",
+      "homepage": "",
+      "authors": [
+        "Xaero96"
+      ],
+      "category": "🛠️ Interfaz, HUD, Minimapas & Utilidad (QoL)"
+    },
+    {
+      "filename": "YungsApi-1.18.2-Forge-2.0.8.jar",
+      "size_mb": 0.14,
+      "id": "yungsapi",
+      "name": "YUNG's API",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "API Library for YUNG's minecraft mods.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
+      "authors": [
+        "YUNGNICKYOUNG"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "YungsBetterDungeons-1.18.2-Forge-2.1.0.jar",
+      "size_mb": 0.98,
+      "id": "betterdungeons",
+      "name": "YUNG's Better Dungeons",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "A complete redesign of Minecraft's dungeons",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
+      "authors": [
+        "YUNGNICKYOUNG, Acarii"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "YungsBetterMineshafts-1.18.2-Forge-2.1.0.jar",
+      "size_mb": 0.52,
+      "id": "bettermineshafts",
+      "name": "YUNG's Better Mineshafts",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "The long-awaited and much-needed abandoned mineshaft overhaul!",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts",
+      "authors": [
+        "YUNGNICKYOUNG"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    },
+    {
+      "filename": "YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar",
+      "size_mb": 0.57,
+      "id": "betterstrongholds",
+      "name": "YUNG's Better Strongholds",
+      "version": "${file.jarVersion}",
+      "loader": "Forge",
+      "description": "A complete redesign of Minecraft's strongholds",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds",
+      "authors": [
+        "YUNGNICKYOUNG, Acarii"
+      ],
+      "category": "🗺️ Generación de Mundo, Estructuras & Dimensiones"
+    }
+  ]
+}
